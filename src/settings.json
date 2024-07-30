@@ -1,0 +1,86 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to get the latest updates, product news, and exclusive offers delivered to your inbox. Stay informed about our launch and never miss out on special deals tailored just for you.",
+        "heading": "Exclusive Offers and Updates with Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology.",
+        "title": "Rev Up Your Worklife"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Rev Up Your Worklife",
+  "subtitle": "Experience seamless connectivity and unprecedented efficiency on the road. Transform your commute into productive time with our cutting-edge automobile technology."
+}
